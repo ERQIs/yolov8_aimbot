@@ -1,0 +1,7 @@
+opencv-python~=4.8.1.78
+ultralytics~=8.2.23
+PyGetWindow~=0.0.9
+mss~=9.0.1
+numpy~=1.26.0
+pywin32==306
+pywin32-ctypes~=0.2.2
